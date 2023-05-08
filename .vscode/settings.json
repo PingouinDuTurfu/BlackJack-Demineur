@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "curses.h": "c",
+        "main.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}

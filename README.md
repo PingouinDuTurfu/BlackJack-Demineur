@@ -1,3 +1,7 @@
+# BlackJack - Demineur
+
+Jeu du BlackJack et tu démineur tournant dans un terminal, entièrement développé en C.
+
 # Compilation 
 
 - blackjack: `make blackjack`
